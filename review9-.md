@@ -1,0 +1,34 @@
+
+- Markov Processes
+	- Transition Matrix
+	- State Vectors
+	- The Steady State Vector
+- Graph Theory
+	- Diagrams of Graphs
+	- A table of edges
+	- Isomorphic Graphs
+	- Directed Graphs
+	- Complete Graphs
+	- Bipartite Graphs
+	- Subgraphs
+	- Degree of a vertex
+	- Walks on Graphs
+	- Connected Graphs
+- Weighted Graphs
+	- Trees
+  - Spanning trees
+  - Kruskal's algorithm for minimal spanning tree
+  - The Travelling salesman problem
+  - Shortest Path
+  - Dijkstra's Algorithm
+  - Transport networks
+  - Max Flow Min Cut
+  - virtual flows
+  - matching problem
+  - Random walks on graphs
+  - Webgraphs
+  - PageRank
+  - damping factor
+  - Iterative Approximation method
+- The Halting Problem
+- Modified Kruskal's Algorithm
