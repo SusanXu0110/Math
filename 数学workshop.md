@@ -43,7 +43,8 @@
 
 # Week 9
 ![](./images/Pasted%20image%2020240529161621.png)
-![](./images/Pasted%20image%2020240529161650.png)![](./images/Pasted%20image%2020240529161657.png)
+![](./images/Pasted%20image%2020240529161650.png)
+![](./images/Pasted%20image%2020240529161657.png)
 
 # Week 10
 ![](./images/Pasted%20image%2020240529161731.png)
